@@ -21,7 +21,7 @@ body {
 .navigation-link:hover {
   text-decoration: none;
   border-bottom: 2px solid #000000;
-  transition: 0.5s ease;
+  transition: 1s e;
 }
 
 /* Main Container height*/
