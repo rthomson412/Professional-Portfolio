@@ -15,7 +15,7 @@ body {
 
 /* Navigation */
 .navigation-link {
-  border: 2px solid transparent;
+  border: 3px solid transparent;
 }
 
 .navigation-link:hover {
